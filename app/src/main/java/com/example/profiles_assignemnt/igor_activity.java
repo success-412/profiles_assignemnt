@@ -12,6 +12,7 @@ public class igor_activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_igor_activity);
+        setTitle("Group I");
     }
 
     public void OnClick2(View view) {

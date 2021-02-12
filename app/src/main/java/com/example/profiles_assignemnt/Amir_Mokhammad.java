@@ -12,6 +12,7 @@ public class Amir_Mokhammad extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_amir__mokhammad);
+        setTitle("Group I");
     }
 
     public void OnClick2(View view) {

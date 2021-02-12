@@ -6,16 +6,16 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-public class MainActivity extends AppCompatActivity {
+public class igor_activity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_igor_activity);
     }
 
-    public void OnClick1(View view) {
-        Intent intent = new Intent(this, igor_activity.class);
-        startActivity(intent);
+    public void OnClick2(View view) {
+        Intent intent2 = new Intent(this, MainActivity.class);
+        startActivity(intent2);
     }
 }

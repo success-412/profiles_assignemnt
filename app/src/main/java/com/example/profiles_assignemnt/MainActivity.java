@@ -19,4 +19,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, igor_activity.class);
         startActivity(intent);
     }
+
+    public void OnClick3(View view) {
+        Intent intent3 = new Intent(this, Amir_Mokhammad.class);
+        startActivity(intent3);
+    }
 }

@@ -1,9 +1,11 @@
 <resources>
     <string name="app_name">profiles_assignemnt</string>
-    <string name="asdasd">Hello !!!</string>
+    <string name="asdasd">Hello from Amir! Come and check my profile=)</string>
     <string name="hello_from_igor">Hello from Igor!</string>
     <string name="myphoto">MyPhoto</string>
     <string name="hi_all_my_name_is_amir_and_i_m_already_21">Hi all! My name is Amir and I\'m already 21.</string>
     <string name="i_m_on_the_computer_science_bachelor_and_i_m_kinda_gamer_that_likes_to_play_computer_games_with_friends">I\'m on the Computer Science Bachelor and I\'m kinda Gamer that likes to play computer games with friends.</string>
     <string name="fun_fact_it_is_hard_to_see_but_i_am_half_russian_and_half_indian_so_kinda_mix_of_cool_nationsxd">Fun Fact: It is hard to see but I am half Russian and half Indian, so kinda mix of cool nationsXD</string>
+    <string name="go_back">Go Back</string>
+    <string name="hello_my_name_is_igor_eremin_i_am_in_team_i_ready_to_create_and_explore">Hello! My name is Igor Eremin. I am in Team I, ready to create and explore</string>
 </resources>

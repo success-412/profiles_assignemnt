@@ -10,7 +10,7 @@
         android:id="@+id/textView"
         android:layout_width="237dp"
         android:layout_height="64dp"
-        android:text="Hello! My name is Igor Eremin. I am in Team I, ready to create and explore"
+        android:text="@string/hello_my_name_is_igor_eremin_i_am_in_team_i_ready_to_create_and_explore"
         android:textAlignment="center"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -24,7 +24,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="OnClick2"
-        android:text="Go Back"
+        android:text="@string/go_back"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -40,6 +40,5 @@
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.786"
-        tools:srcCompat="@drawable/photo" />
+        app:layout_constraintVertical_bias="0.786" />
 </androidx.constraintlayout.widget.ConstraintLayout>
